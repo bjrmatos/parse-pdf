@@ -31,7 +31,7 @@
   },
   "license": "MIT",
   "engines": {
-    "node": ">=22"
+    "node": ">=18.15"
   },
   "dependencies": {
     "pdfjs-dist": "4.10.38"
